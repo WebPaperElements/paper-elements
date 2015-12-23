@@ -37,7 +37,7 @@ _Nothing on the super short-term list_
 ### Third-Party elements
 _Elements not built directly by the Polymer core team, but which are of notably high quality and fill current gaps in the element set._
 * [`paper-datatable`](https://github.com/David-Mulder/paper-datatable) by [David-Mulder](https://github.com/David-Mulder/) - a material design data table for displaying tabular data, sorting by columns, and more.
-
+* [`paper-chip`](https://github.com/WebPaperElements/paper-chip) by [patrinhani-ciandt - WebPaperElements](https://github.com/WebPaperElements) - a material design paper-chip element based on [Material design Chip](http://www.google.com.br/design/spec/components/chips.html).
 ### Elements not planned, notably
 _Elements we're not planning on building as part of this product line, but that one might be wondering about_
 
